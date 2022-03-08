@@ -12,11 +12,11 @@
 	     <xsl:value-of select="title"/>
 	     </h2>
 	     
-	     <p>Año:
+	     <p>· Año:
 	     <xsl:value-of select="year"/>
 	     </p>
 	     
-	     <p>Precio:
+	     <p>· Precio:
       		<span>
          		<xsl:value-of select="price"/> 
          	</span>
