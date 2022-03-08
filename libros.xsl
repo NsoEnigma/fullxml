@@ -8,7 +8,7 @@
     </xsl:template>
 	
 	<xsl:template match="book">
-		 <h2>Obra:
+		 <h2>OBRA:
 	     <xsl:value-of select="title"/>
 	     </h2>
 	     
